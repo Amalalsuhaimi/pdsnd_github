@@ -20,3 +20,5 @@ This is the repo for Udacity's Version Control with Git course. this course focu
 •	TheNetNinja twitter https://twitter.com/thenetninjauk
 
 •	 TheNetNinja GitHub https://github.com/iamshaunjp
+
+•  TheNetNinja Youtube https://www.youtube.com/TheNetNinja
