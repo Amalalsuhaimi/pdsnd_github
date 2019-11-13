@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+14 November 2019
 
 ### Project Title
-Replace the Project Title
+Version Control with Git and GitHub
+
 
 ### Description
-Describe what your project is about and what it does
+This is the repo for Udacity's Version Control with Git course. this course focused on many basic helpful commands . l will apply what i've learned about in this course briefly.
+
+
 
 ### Files used
-Include the files used
+•	Files of Bikeshare python Project
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+•	Richard Kalehoff https://github.com/richardkalehoff
 
+•	TheNetNinja twitter https://twitter.com/thenetninjauk
+
+•	 TheNetNinja GitHub https://github.com/iamshaunjp
