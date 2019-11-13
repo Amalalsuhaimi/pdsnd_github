@@ -25,8 +25,17 @@ Thanks to the rise in information technologies its provide a wealth of data that
 
 
 ### Credits
+GitHub :
 •	Richard Kalehoff https://github.com/richardkalehoff
 
 •	TheNetNinja twitter https://twitter.com/thenetninjauk
 
 •	 TheNetNinja GitHub https://github.com/iamshaunjp
+
+###References
+python project :
+1.	Stackoverflow
+2.	Python documentation
+3.	Pandas Documentation
+4.	Jupyter Notebook
+5.	I used a book called Automate the boring stuff with python
