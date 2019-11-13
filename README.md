@@ -1,9 +1,9 @@
 ### Date created
-GitHub :14 November 2019
+GitHub :14 November 2019  /  
 python project :13 October 2019
 
 ### Project Title
-Version Control with Git and GitHub  /Explore US Bikeshare Data
+Version Control with Git and GitHub   /  Explore US Bikeshare Data
 
 
 ### Description
@@ -18,22 +18,25 @@ How can I use different modules as Numpy and pandas also using the Jupiter noteb
 Thanks to the rise in information technologies its provide a wealth of data that can be helpful in our journey of coding
 
 
-
-
 ### Files used
 •	Files of Bikeshare python Project
 
 
 ### Credits
 GitHub :
+
+
 •	Richard Kalehoff https://github.com/richardkalehoff
 
 •	TheNetNinja twitter https://twitter.com/thenetninjauk
 
 •	 TheNetNinja GitHub https://github.com/iamshaunjp
 
-###References
+### References
+
 python project :
+
+
 1.	Stackoverflow
 2.	Python documentation
 3.	Pandas Documentation
