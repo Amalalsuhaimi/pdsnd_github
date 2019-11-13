@@ -43,7 +43,11 @@ def get_filters():
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
         day = input("Finally , Enter one day of the week u would or again you can Enter \'all\' to apply all of them".lower())
-
+        if day in Days:
+            break
+        else:
+            print("I didn't get it . try one more time!")
+            continue
 
     print('-' * 40)
     return city, month, day
@@ -192,6 +196,3 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-' * 40)
-
-
-
